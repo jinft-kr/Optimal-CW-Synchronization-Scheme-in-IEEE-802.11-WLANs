@@ -26,9 +26,15 @@ WLAN; optimal CW; CW synchronization
 기존 연구들에서는 단말들 간의 CW값 동기화가 이루어지지 않아서 네트워크 성능 저하가 발생할 수 있지만 본 연구에서는 Beacon 및 Probe Response를 통한 동기화를 통해 네트워크 성능 최적화를 도모할 수 있을 것으로 기대합니다.
 
 ### 🕐 Timeline
+__<국내 논문지>__
 - 2020-12-11 신규 논문 제출
 - 2020-12-15 1차 논문 심사
 - 2020-12-16 최종본 제출
 - 2020-12-21 논문 최종 승인
+<br/>
+__<해외 논문지>__
+- 2021-01-16 MDPI applied sciences 1차 제출
+- 2021-02-24 MDPI reject되서 대폭 수정 후 scopus에 제출
+- 2021-03-04 SCOPUS에서 minor revision이 와서 수정 후 재제출
 
 ### Reference
