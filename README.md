@@ -39,5 +39,6 @@ __<해외 논문지>__
 - 2021-02-24 MDPI reject되서 대폭 수정 후 scopus에 제출
 - 2021-03-04 SCOPUS에서 minor revision이 와서 수정 후 재제출
 - jovi 해외 논문지 통과
+- jovi 8월호에 기재
 
 ### Reference
